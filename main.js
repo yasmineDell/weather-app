@@ -17,7 +17,7 @@ const btn = document.querySelector(".submit");
 
 // Defalt city when the page loads
 
-let cityInput = "London";
+let cityInput = "Algiers";
 
 // add click event to each city in the panel
 cities.forEach((city) => {
